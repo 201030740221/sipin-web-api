@@ -1,0 +1,19 @@
+{
+  "name": "sipin-webapi",
+  "version": "1.0.0",
+  "description": "sipin 前台功能 api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git:7999/wilson/sipin-webapi.git"
+  },
+  "dependencies": {
+      "object-assign": "^3.0.0",
+      "reqwest": "^1.1.5"
+  },
+  "author": "wilson",
+  "license": "ISC"
+}
